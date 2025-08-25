@@ -10,6 +10,7 @@ int main(int argc, char const *argv[])
     printf("%s", "四");
     printf("%s", "五");
     printf("%s", "六");
+    printf("%s", "七");
     return 0;
 }
 

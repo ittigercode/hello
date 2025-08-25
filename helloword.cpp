@@ -9,6 +9,9 @@ int main(int argc, char const *argv[])
     printf("%s", "六");
     printf("%s", "七");
      printf("%s", "八");
+    printf("%s", "99");
+     printf("%s", "88");
+ 
     return 0;
 }
 

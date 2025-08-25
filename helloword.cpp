@@ -8,6 +8,7 @@ int main(int argc, char const *argv[])
     printf("%s", "二");
     printf("%s", "六");
     printf("%s", "七");
+     printf("%s", "八");
     return 0;
 }
 
